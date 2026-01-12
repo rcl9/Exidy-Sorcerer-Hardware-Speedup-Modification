@@ -54,9 +54,7 @@ For the following wiring steps, refer to the diagram for wire placement.
 between pins 2 and 3 of 6A and extends towards 5A where it 
 cuts through the board to the opposite side. Take the X-acto 
 knife and cut away the trace leaving enough to allow 
-soldering of wires to both sides later. (See blown up 
-diagram of ICs 6A and 5A for exact location and extent of 
-trace to cut).
+soldering of wires to both sides later. 
 
 <div style="text-align:center">
 <img src="/Images/Ref-1.jpg" alt="" style="width:70%; height:auto;">
@@ -87,8 +85,8 @@ of the bent pins touch the pins of 7A. This socket will now be called Z7A.
 <img src="/Images/Ref-3.jpg" alt="" style="width:70%; height:auto;">
 </div>
 
-- Now take the other 14 pin socket and bend up all pins except 1,4,7 and 14. You may refer to the diagram for 
-pinouts if you don't know how an IC chip is numbered. Piggyback and solder this socket to IC 9A. Pins 1,4,7 and 
+- Now take the other 14 pin socket and bend up all pins except 1, 4, 7 and 14. You may refer to the diagram for 
+pinouts if you don't know how an IC chip is numbered. Piggyback and solder this socket to IC 9A. Pins 1, 4, 7 and 
 14 will be soldered to the corresponding pins of IC 9A and the rest are bent up. This socket is now called Z9A.
 
 <div style="text-align:center">
@@ -97,11 +95,11 @@ pinouts if you don't know how an IC chip is numbered. Piggyback and solder this 
 
 - Connect the right side of the trace cut (where the trace goes through the board to the opposite side) by soldering it to pin 1 of Z7A.
 
-- Next connect the left side of the trace cut (just before the trace goes between pins 2 and 3 of 6A) by soldering it to pin 8 of Z7A.
+- Connect the left side of the trace cut (just before the trace goes between pins 2 and 3 of 6A) by soldering it to pin 8 of Z7A.
 
-- Next connect the centre lug of the switch to pin 7 of 10A. This completes the switch installation.
+- Connect the centre lug of the switch to pin 7 of 10A. This completes the switch installation.
 
-- Next connect pin 6 of 1B to pin 5 of Z7A.Then connect pin 3 of Z7A to pin 9 of Z7A (on the same socket).
+- Connect pin 6 of 1B to pin 5 of Z7A.Then connect pin 3 of Z7A to pin 9 of Z7A (on the same socket).
 
 - Connect pin 6 of Z7A to pin 10 of Z7A.
 
@@ -109,7 +107,7 @@ pinouts if you don't know how an IC chip is numbered. Piggyback and solder this 
 
 - Again connect pin 10 of Z9A to the right side of the switch (on the same lug as the 4.7k resistor is soldered to).
 
-- Next connect pin 9 of Z9A to pin 2 of Z7A.
+- Connect pin 9 of Z9A to pin 2 of Z7A.
 
 - To complete the circuit, connect pin 8 of Z9A to pin 4 of Z7A.
 
